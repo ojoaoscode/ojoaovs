@@ -3,4 +3,4 @@
 ## Hi!👋
 I'm a Web Developer and Graphic Designer.
 
--- Currently studying Systems Development at ETEC, focusing on Web, Delphi and React Native.
+-- Currently studying Systems Development at ETEC, focusing on Web, Delphi and React Native. 
