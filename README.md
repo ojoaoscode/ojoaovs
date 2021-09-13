@@ -3,7 +3,7 @@
 ## Hi!👋
 I'm a developer in development.
 
--- Studying: Javascript and PHP.
+-- Studying: Javascript, PHP and Delphi.
 
 -- Experience: HTML, CSS, PHP and Graphic Design.
 
