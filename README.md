@@ -1,5 +1,5 @@
 [![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/ojoaovs)
-[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=DC011D)](https://www.instagram.com/ojoaovs/)
+[![PERFIL](https://img.shields.io/badge/Instagram%20-%23323330.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=E71605)](https://www.instagram.com/ojoaovs/)
 
 
 ## Hi!👋
