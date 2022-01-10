@@ -5,11 +5,11 @@
 
 ## Hi! I'm a Web Developer👋
 
--- Studying: Javascript, PHP and Node.js.
+-- **Studying:** Javascript, PHP and Node.js.
 
--- Experience: HTML, CSS, Javascript, PHP, Electron.js, Node.js and Graphic Design.
+-- **Experience:** HTML, CSS, Javascript, PHP, Electron.js, Node.js, MySQL, Pawn and Graphic Design.
 
 -- I studied Systems Development at ETEC, focusing on Web and desktop.
 
 
-I am looking for a job opportunity to develop my professional skills.
+**I am looking for a job opportunity to develop my professional skills.**
