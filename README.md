@@ -5,11 +5,11 @@
 
 "Se alguém te oferecer uma oportunidade, mas você não tem certeza de que consegue fazer, diga sim e depois faça ou aprenda.“
 
-## Hi! I'm a Web Developer👋
+## Hi! I'm a Front-end Developer👋
 
 -- **Studying:** Javascript, PHP and Node.js.
 
--- **Experience:** HTML, CSS, Javascript, PHP, Electron.js, Node.js, MySQL, Pawn and Graphic Design
+-- **Skills:** HTML, CSS, Javascript, PHP, Electron.js, Node.js, MySQL, Pawn and Graphic Design
 
 -- I study Data Science at FATEC, I studied Systems Development at ETEC.
 
