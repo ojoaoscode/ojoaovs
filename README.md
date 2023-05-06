@@ -5,15 +5,15 @@
 
 "Se alguém te oferecer uma oportunidade, mas você não tem certeza de que consegue fazer, diga sim e depois faça ou aprenda.“
 
-## Hi! I'm a Front-end Developer👋
+## Hi! I'm a Developer👋
 
--- **Studying:** Javascript, PHP and Node.js.
+-- **Studying:** Javascript and Node.js.
 
--- **Skills:** HTML, CSS, Javascript, PHP, Electron.js, Node.js, MySQL, Pawn and Graphic Design
+-- **Skills:** HTML, CSS, Javascript, PHP, Electron.js, Node.js, MySQL and Pawn.
 
 -- I study Data Science at FATEC, I studied Systems Development at ETEC.
 
 -- Fluent Portuguese, Basic English and Spanish.
 
-
-**I am looking for a job opportunity to develop my professional skills.**
+I currently work as a graphic designer.
+**I'm looking for a job opportunity to develop my developer skills.**
